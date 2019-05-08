@@ -1,2 +1,7 @@
-This is for practice and not part of the curriculum.
-Data cleaning using "Data Scientist Job Market in the U.S." dataset.
+This has the following tasks.
+1) Data Cleaning.
+2) Exploratory Data Analysis.
+3) Data Visualization.
+4) Understanding Probability distributions.
+5) Univariate and Bivariate Analysis.
+
